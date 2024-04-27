@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\source\\repos\\ListaConceito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE372C1D-5D9A-487D-8BA0-440E78B7E060}|ListaConceito\\ListaConceito.csproj|c:\\users\\julia\\source\\repos\\listaconceito\\listaconceito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE372C1D-5D9A-487D-8BA0-440E78B7E060}|ListaConceito\\ListaConceito.csproj|solutionrelative:listaconceito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\source\\repos\\ListaConceito\\ListaConceito\\Program.cs",
+              "RelativeDocumentMoniker": "ListaConceito\\Program.cs",
+              "ToolTip": "C:\\Users\\julia\\source\\repos\\ListaConceito\\ListaConceito\\Program.cs",
+              "RelativeToolTip": "ListaConceito\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwEQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:59:52.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

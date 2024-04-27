@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\bin\Debug\net8.0\ListaConceito.exe
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\bin\Debug\net8.0\ListaConceito.deps.json
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\bin\Debug\net8.0\ListaConceito.runtimeconfig.json
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\bin\Debug\net8.0\ListaConceito.dll
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\bin\Debug\net8.0\ListaConceito.pdb
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\obj\Debug\net8.0\ListaConceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\obj\Debug\net8.0\ListaConceito.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\obj\Debug\net8.0\ListaConceito.AssemblyInfo.cs
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\obj\Debug\net8.0\ListaConceito.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\obj\Debug\net8.0\ListaConceito.dll
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\obj\Debug\net8.0\refint\ListaConceito.dll
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\obj\Debug\net8.0\ListaConceito.pdb
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\obj\Debug\net8.0\ListaConceito.genruntimeconfig.cache
+C:\Users\julia\source\repos\ListaConceito\ListaConceito\obj\Debug\net8.0\ref\ListaConceito.dll
